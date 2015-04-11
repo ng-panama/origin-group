@@ -1,5 +1,7 @@
 # origin-group
-ng-panama founders
+## ng-panama founders
+
+### Observacion: Solo compartimos ideas y tendencias
 
 Reglas del Comite - draft
 
@@ -9,4 +11,6 @@ Reglas del Comite - draft
   * Comite: Se propone hasta obtener un quorum (si/no)
   * Foraneas: Se proponen por medio de Github hasta obtener un quorum (si/no)
 * Temas son Ad hoc
+* Se sugiere tener grupos en mensajeria movil
+* Se sugiere mantener discusiones en github para evitar trolling innecesario
 * Otros grupos siguen estas reglas y obtienen un repo y t-shirts de ng-panama
